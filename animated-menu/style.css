@@ -14,7 +14,13 @@ body{
   height: 20px;
   width: 250px;
   z-index: 99;
-}
+}.navgation{
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  height: 20px;
+  width: 250px;
+  z-index: 99;
 .toggle{
   position: relative;
   top: 0;
@@ -549,3 +555,4 @@ vvv text-transform: capitalize;
   list-style: none;
   font-weight: 600;
   cursor: pointer;vvor: pointer;v
+
